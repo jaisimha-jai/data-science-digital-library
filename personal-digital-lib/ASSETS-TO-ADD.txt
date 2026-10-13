@@ -1,0 +1,12 @@
+PERSONAL DIGITAL LIB — ASSET NOTES
+
+When ready, add:
+- images/university-logo-placeholder.png (replace with the approved university logo)
+- images/student-photo-placeholder.jpg (replace with your own photo)
+
+Before deploying, update the student name, register number, year/semester, section and academic year in index.html and dashboard.html.
+
+Modules are starter C++ content in module1.html. Replace/expand with your official module files when you send them.
+The dashboard's GitHub project links now point to https://github.com/jaisimha-jai; replace them with specific repository links when you provide them.
+
+The online compiler in tool-lab.html sends code to a third-party public compiler API. Do not submit confidential code or secrets.
